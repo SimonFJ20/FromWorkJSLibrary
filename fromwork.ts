@@ -3,7 +3,7 @@
 *       FromWorkJS Library
 *
 *       Filename:   fromwork.ts
-*       Pathname:   src/fromwork.ts
+*       Pathname:   frameworkjs/fromwork.ts
 *       Language:   TypeScript
 *       Content:    FromWorkJS main library file
 *
